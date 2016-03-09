@@ -20,5 +20,4 @@ echo "tags: $tags" >> $md_name
 echo "subclass: 'post tag-$tags'" >> $md_name
 echo "categories: ''" >> $md_name
 echo "cover: ''" >> $md_name
-echo "navigation: True " >> $md_name
 echo "---" >> $md_name
