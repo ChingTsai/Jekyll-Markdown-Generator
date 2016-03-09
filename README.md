@@ -35,3 +35,5 @@ Place `jekyll_md_generator.sh` in your Jekyll folder which is the directory has 
 - Auto generate date
 
 ### How it works
+
+[Here](http://chingtsai.github.io/Shell-Script-Jekyll-Markdown-Generator)
